@@ -184,7 +184,3 @@ cmake-build-*
 
 #Python
 __pycache__
-platformio.ini
-Marlin/Configuration_adv.h
-Marlin/Configuration.h
-Marlin/Configuration_adv.h
